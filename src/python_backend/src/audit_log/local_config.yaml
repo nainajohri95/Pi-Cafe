@@ -1,0 +1,21 @@
+snowflake:
+  account: '###########'
+  user: '##########'
+  password: '##########'
+  database: '########'
+  schema: '########'
+  warehouse: '########'
+  role: '#########'
+  tables:
+      - 'ORDERS'
+      - 'CATEGORIES'
+      - 'CUSTOMERS'
+      - 'CUSTOMER_FEEDBACK'
+      - 'EMPLOYEES'
+      - 'ITEMS' 
+      - 'LOCATIONS'
+      - 'ORDER_ITEMS'
+      - 'STORES'
+      - 'AUDIT_LOGS'
+
+  

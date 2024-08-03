@@ -1,0 +1,11 @@
+from datetime import datetime
+
+NUM_STORES = 10
+NUM_CUSTOMERS = 200
+NUM_ITEMS = 50
+NUM_CATEGORIES = 5
+NUM_REGIONS = 4
+START_DATE = datetime(2023, 1, 1)
+END_DATE = datetime(2024, 2, 1)
+NUM_TRANSACTIONS_PER_DAY = 100
+
